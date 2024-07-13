@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar M.</h1>
+<h1 align="center">Hi, I'm Ajay Kumar M.</h1>
 <h3 align="center">A passionate learner & future developer from India 🇮🇳</h3>
 
 <p align="left"> <a href="https://twitter.com/ajaykumarm_" target="blank"><img src="https://img.shields.io/twitter/follow/ajaykumarm_?logo=twitter&style=for-the-badge" alt="ajaykumarm_" /></a> </p>
